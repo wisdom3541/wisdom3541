@@ -31,4 +31,4 @@
 ](https://github.com/wisdom3541/github-readme-stats)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisdom3541&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisdom3541&theme=tokyonight&count_private=true)](https://git.io/streak-stats)

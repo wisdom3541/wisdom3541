@@ -25,7 +25,7 @@
 
 <h3 align="left">My Stats:</h3>
 
-![Edem Gold's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdom3541&show_icons=true&theme=tokyonight&count_private=true)
+![Wisdom GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdom3541&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdom3541&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 ](https://github.com/wisdom3541/github-readme-stats)

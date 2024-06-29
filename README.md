@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **ezeokoliwisdom@gmail.com**
 
-- ⚡ Fun fact **It's you against everyone**
+- ⚡ Fun fact **"It's you against everyone"**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>

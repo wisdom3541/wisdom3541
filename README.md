@@ -4,17 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisdom-ezeokoli-372810178/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wisdom3541)
 
-- 🔭 I'm currently working on **Findme**
-
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I'm currently working on **PJournal**
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **myself and what I do**
-
 - 📫 Reach me at **ezeokoliwisdom@gmail.com**
 
-- ⚡ Fun fact **I love Gaming**
+- ⚡ Fun fact **It's you against everyone**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>

@@ -1,10 +1,9 @@
 <h1 align="Left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, my name is Wisdom</h1>
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bishop_roguegod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisdom-ezeokoli-372810178/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wisdom3541)
 
-- 🔭 I'm currently working on **PJournal**
+- 🔭 I'm currently working on **HNG Shopping App**
 
 - 👯 I’m looking to collaborate on **projects**
 

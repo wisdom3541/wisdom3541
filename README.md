@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisdom-ezeokoli-372810178/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wisdom3541)
 
-- 🔭 I'm currently working on **HNG Shopping App**
+- 🔭 I'm currently working on **E-Doc**
 
 - 👯 I’m looking to collaborate on **projects**
 
